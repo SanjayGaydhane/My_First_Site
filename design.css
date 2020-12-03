@@ -1,0 +1,121 @@
+body{
+    background-color: rgb(179, 247, 219);
+    font-family: 'Dancing Script', cursive;
+   
+}
+.mountain_img{
+    width: 550px;
+    height: 400px;
+}
+.main{
+    font-size: 50px
+}
+h3{
+    font-size: 27px
+}
+.top{
+    margin-top: 15px;
+    text-align: center;
+}
+.cloud1 {
+    width: 140px;
+    height: 70px;
+    position: relative;
+  left: 250px;
+
+}
+.cloud2{
+    width: 140px;
+    height: 70px;
+    position: relative;
+    right: 250px;
+
+}
+.middle{
+    margin-top: 70px;
+    text-align: center;
+}
+.dp{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    
+    
+}
+
+.main1{
+    font-size: 50px;
+}
+.para1{
+
+   
+    margin-bottom: 40px;
+    font-family: font-family: 'Yellowtail', cursive; 
+}
+hr{
+
+    width: 10%;
+    border-top: 5px dotted green;
+}
+.skills{
+    width: fit-content;
+    margin: 50px auto 150px;
+   
+
+}
+
+.skill_img{
+    width: 150px;
+    height: 150px;
+    float: left;
+    font-size: 50px;
+    color: #150485;
+    padding-right: 40px;
+
+}
+
+.skills h3{
+    text-align: center;
+}
+.skill_row h4{
+    font-size: x-large;
+}
+.contact{
+margin: 50px auto 50px;
+width: 600px;
+text-align: center;
+
+}
+hr{
+
+    width: 10%;
+    border-top: 5px dotted green;
+}
+p{
+    font-size: 30px;
+}
+.btn{
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive; 
+    font-size: 25px;
+    padding: 8px;
+    background-color: #583d72;
+    color: honeydew;
+    border-radius: 20px;
+}
+   
+.btn:hover{
+    cursor: pointer;
+    color: red;
+}
+.footer{
+    text-align: center;
+    background-color: seagreen;
+    
+
+}
+.footer img{
+    padding: 20px;
+}
+    
+
